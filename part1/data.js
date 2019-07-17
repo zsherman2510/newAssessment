@@ -1,0 +1,40 @@
+export var data = [
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  },
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  },
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  },
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  },
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  },
+  {
+    image: "http://via.placeholder.com/500",
+    title: "Lorem ipsum dolor sit amet.",
+    body:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit dolorum repellat, deserunt exercitationem cupiditate deleniti incidunt nostrum, dolorem quasi rerum sunt rem fugiat dolores earum distinctio debitis. Obcaecati non fugiat dolor perferendis quibusdam placeat deserunt perspiciatis aspernatur quidem quas est maxime odio, atque odit rerum reprehenderit! Similique hic ut natus repellat reiciendis voluptatum, unde sunt itaque accusantium? Quasi, dolore officiis necessitatibus, distinctio quaerat molestias, voluptatum exercitationem adipisci eligendi optio incidunt. Dolores tempora quaerat cupiditate veritatis libero iure molestiae ab voluptates fugit. Voluptatum numquam optio repudiandae sequi ut reiciendis repellendus perspiciatis, expedita cum veritatis consequatur quos dolorum impedit nisi quisquam distinctio corporis adipisci sit natus, labore necessitatibus blanditiis repellat! Est vel fugit architecto nemo tempore mollitia dolore necessitatibus, quam provident nulla ipsa expedita commodi voluptate tempora esse, labore obcaecati incidunt magni qui quia placeat aut assumenda minus! Beatae esse sequi porro vero. Sed quibusdam molestiae ea amet necessitatibus culpa quam magnam!"
+  }
+];
+
+module.exports = data;
